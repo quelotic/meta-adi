@@ -1,6 +1,6 @@
-SRCREV := "646559729cbd1ae60dde8ab5189b6af7055314a6"
-KBRANCH := "2014_R2"
-LINUX_VERSION := "3.17"
+SRCREV := "9c0d4f5d6860da69b00ceb5b1ea519836725aafa"
+KBRANCH := "xcomm_zynq"
+LINUX_VERSION := "4.6"
 
 # This version extension should match CONFIG_LOCALVERSION in defconfig
 LINUX_VERSION_EXTENSION = ""
