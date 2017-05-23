@@ -1,4 +1,4 @@
-Fork of the njpillitteri/meta-adi git.
+Fork of https://github.com/njpillitteri/meta-adi
 
 Yocto meta-layer.
 Fetches the Analog Devices Inc. Linux Kernel 4.6
